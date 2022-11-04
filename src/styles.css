@@ -95,30 +95,6 @@ body {
   transform: translate(10%, 3%) rotate(5deg);
 }
 
-.little-card:nth-child(1) {
-  background-image: url("https://images.unsplash.com/photo-1531259683007-016a7b628fc3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80");
-  background-size: 100% 100%;
-  background-repeat: no-repeat;
-}
-
-.little-card:nth-child(3) {
-  background-image: url("https://images3.alphacoders.com/128/1283985.jpg");
-  background-size: 100% 100%;
-  background-repeat: no-repeat;
-}
-
-.little-card:nth-child(5) {
-  background-image: url("https://images.unsplash.com/photo-1602918955248-d1bbfcbfae38?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1527&q=80");
-  background-size: 100% 100%;
-  background-repeat: no-repeat;
-}
-
-.little-card:nth-child(7) {
-  background-image: url("https://images.unsplash.com/photo-1607134286392-1726f8cca84e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80");
-  background-size: 100% 100%;
-  background-repeat: no-repeat;
-}
-
 .card-group:hover > .big-card:nth-child(2) {
   transform: translate(-75%, 16%) rotate(-24deg);
 }
